@@ -1,4 +1,5 @@
 /*
+ * Microcontrolador ESP32 - Empleado como access point ; Emanuel Moroni. ETRR 2021
  * Links de interés;
  * https://randomnerdtutorials.com/esp32-access-point-ap-web-server/
  * https://randomnerdtutorials.com/esp32-esp8266-input-data-html-form/
